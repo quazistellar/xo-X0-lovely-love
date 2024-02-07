@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\krestiki_nolicki\bin\Debug\krestiki_nolicki.exe.config
+C:\Users\User\source\repos\krestiki_nolicki\bin\Debug\krestiki_nolicki.exe
+C:\Users\User\source\repos\krestiki_nolicki\bin\Debug\krestiki_nolicki.pdb
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\App.g.cs
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki_MarkupCompile.cache
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki_MarkupCompile.lref
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki.g.resources
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki.Properties.Resources.resources
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki.csproj.GenerateResource.cache
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki.exe
+C:\Users\User\source\repos\krestiki_nolicki\obj\Debug\krestiki_nolicki.pdb
